@@ -54,16 +54,16 @@ env:
 
   ## TODO: List of comma delimited emails that will be made admin and developer
   ## on initial signup example 'user1@example.com,user2@example.com'
-  DISCOURSE_DEVELOPER_EMAILS: 'rsuela@gmail.com'
+  DISCOURSE_DEVELOPER_EMAILS: 'infomate@hotmail.com'
 
   ## TODO: The domain name this Discourse instance will respond to
-  DISCOURSE_HOSTNAME: 'discourse.rsuela.com'
+  DISCOURSE_HOSTNAME: 'infomate.discourse.com'
 
   ## TODO: The mailserver this Discourse instance will use
-  DISCOURSE_SMTP_ADDRESS: smtp.mandrillapp.com     # (mandatory)
-  DISCOURSE_SMTP_PORT: 587                        # (optional)
-  DISCOURSE_SMTP_USER_NAME: rsuela@gmail.com      # (optional)
-  DISCOURSE_SMTP_PASSWORD: u1mkZCby9P64W06KeahnXw               # (optional)
+  DISCOURSE_SMTP_ADDRESS: smtp.outlook.com         # (mandatory)
+  DISCOURSE_SMTP_PORT: 587                         # (optional)
+  DISCOURSE_SMTP_USER_NAME: infomate@hotmail.com   # (optional)
+  DISCOURSE_SMTP_PASSWORD:                         # (optional)
   #DISCOURSE_SMTP_ENABLE_START_TLS: true           # (optional, default true)
 
   ## The CDN address for this Discourse instance (configured to pull)
